@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mani Chandrasekaran aka (Mani)
+- 👀 I’m interested in building and empowering teams who can deliver morden cloud platforms for growing companies
+- 🌱 I’m currently learning on how to improvise high performing teams
+- 💞️ I’m looking to collaborate with engineers who build and maintain morden cloud platforms for microservices
+- 📫 How to reach me mani@dinventive.com
